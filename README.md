@@ -2,7 +2,7 @@
 
 ## About Note2bud
 
-A way to leave notes to your buddy.
+Note2bud is a laravel based note-sharing app.
 
 [note2bud.fly.dev](https://note2bud.fly.dev).
 
